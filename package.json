@@ -1,0 +1,11 @@
+{
+  "name": "bharat-jeevan-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bharat Jeevan AI citizen and family intelligence prototype",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.21.2", "openai": "^6.0.0" },
+  "devDependencies": {}
+}
